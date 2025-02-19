@@ -32,7 +32,7 @@ Welcome to **TempleFinder** – a web application dedicated to helping users dis
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/sugapriya-k/TempleFinder.git
+git clone https://github.com/Jamunaselvam18/Temple-finder
 ```
 
 ### 2. Install Dependencies
